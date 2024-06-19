@@ -1,0 +1,8 @@
+D:\Vika\C# Базовый (ООП)\ДЗ\6. Статические и вложенные классы\Lesson_6.2\Lesson_6.2\bin\Debug\Lesson_6.2.exe.config
+D:\Vika\C# Базовый (ООП)\ДЗ\6. Статические и вложенные классы\Lesson_6.2\Lesson_6.2\bin\Debug\Lesson_6.2.exe
+D:\Vika\C# Базовый (ООП)\ДЗ\6. Статические и вложенные классы\Lesson_6.2\Lesson_6.2\bin\Debug\Lesson_6.2.pdb
+D:\Vika\C# Базовый (ООП)\ДЗ\6. Статические и вложенные классы\Lesson_6.2\Lesson_6.2\obj\Debug\Lesson_6.2.csproj.AssemblyReference.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\6. Статические и вложенные классы\Lesson_6.2\Lesson_6.2\obj\Debug\Lesson_6.2.csproj.SuggestedBindingRedirects.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\6. Статические и вложенные классы\Lesson_6.2\Lesson_6.2\obj\Debug\Lesson_6.2.csproj.CoreCompileInputs.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\6. Статические и вложенные классы\Lesson_6.2\Lesson_6.2\obj\Debug\Lesson_6.2.exe
+D:\Vika\C# Базовый (ООП)\ДЗ\6. Статические и вложенные классы\Lesson_6.2\Lesson_6.2\obj\Debug\Lesson_6.2.pdb

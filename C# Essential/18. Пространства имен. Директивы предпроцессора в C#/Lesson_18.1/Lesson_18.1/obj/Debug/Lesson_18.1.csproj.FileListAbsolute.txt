@@ -1,0 +1,7 @@
+D:\Vika\C# Базовый (ООП)\ДЗ\18. Пространства имен. Директивы предпроцессора в C#\Lesson_18.1\Lesson_18.1\bin\Debug\Lesson_18.1.exe.config
+D:\Vika\C# Базовый (ООП)\ДЗ\18. Пространства имен. Директивы предпроцессора в C#\Lesson_18.1\Lesson_18.1\bin\Debug\Lesson_18.1.exe
+D:\Vika\C# Базовый (ООП)\ДЗ\18. Пространства имен. Директивы предпроцессора в C#\Lesson_18.1\Lesson_18.1\bin\Debug\Lesson_18.1.pdb
+D:\Vika\C# Базовый (ООП)\ДЗ\18. Пространства имен. Директивы предпроцессора в C#\Lesson_18.1\Lesson_18.1\obj\Debug\Lesson_18.1.csproj.AssemblyReference.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\18. Пространства имен. Директивы предпроцессора в C#\Lesson_18.1\Lesson_18.1\obj\Debug\Lesson_18.1.csproj.CoreCompileInputs.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\18. Пространства имен. Директивы предпроцессора в C#\Lesson_18.1\Lesson_18.1\obj\Debug\Lesson_18.1.exe
+D:\Vika\C# Базовый (ООП)\ДЗ\18. Пространства имен. Директивы предпроцессора в C#\Lesson_18.1\Lesson_18.1\obj\Debug\Lesson_18.1.pdb

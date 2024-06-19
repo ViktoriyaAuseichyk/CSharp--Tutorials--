@@ -1,0 +1,7 @@
+D:\Vika\C# Базовый (ООП)\ДЗ\16. Перегрузка операторов в C#\Lesson_16.1\Lesson_16.1\bin\Debug\Lesson_16.1.exe.config
+D:\Vika\C# Базовый (ООП)\ДЗ\16. Перегрузка операторов в C#\Lesson_16.1\Lesson_16.1\bin\Debug\Lesson_16.1.exe
+D:\Vika\C# Базовый (ООП)\ДЗ\16. Перегрузка операторов в C#\Lesson_16.1\Lesson_16.1\bin\Debug\Lesson_16.1.pdb
+D:\Vika\C# Базовый (ООП)\ДЗ\16. Перегрузка операторов в C#\Lesson_16.1\Lesson_16.1\obj\Debug\Lesson_16.1.csproj.AssemblyReference.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\16. Перегрузка операторов в C#\Lesson_16.1\Lesson_16.1\obj\Debug\Lesson_16.1.csproj.CoreCompileInputs.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\16. Перегрузка операторов в C#\Lesson_16.1\Lesson_16.1\obj\Debug\Lesson_16.1.exe
+D:\Vika\C# Базовый (ООП)\ДЗ\16. Перегрузка операторов в C#\Lesson_16.1\Lesson_16.1\obj\Debug\Lesson_16.1.pdb

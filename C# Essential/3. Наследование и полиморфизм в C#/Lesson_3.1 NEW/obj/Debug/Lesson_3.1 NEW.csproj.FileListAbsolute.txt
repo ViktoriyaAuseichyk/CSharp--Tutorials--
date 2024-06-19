@@ -1,0 +1,8 @@
+D:\Rissa\C# Базовый (ООП)\ДЗ\3.0_Inheritance\Lesson_3.1 NEW\bin\Debug\Lesson_3.1 NEW.exe.config
+D:\Rissa\C# Базовый (ООП)\ДЗ\3.0_Inheritance\Lesson_3.1 NEW\bin\Debug\Lesson_3.1 NEW.exe
+D:\Rissa\C# Базовый (ООП)\ДЗ\3.0_Inheritance\Lesson_3.1 NEW\bin\Debug\Lesson_3.1 NEW.pdb
+D:\Rissa\C# Базовый (ООП)\ДЗ\3.0_Inheritance\Lesson_3.1 NEW\obj\Debug\Lesson_3.1 NEW.csproj.AssemblyReference.cache
+D:\Rissa\C# Базовый (ООП)\ДЗ\3.0_Inheritance\Lesson_3.1 NEW\obj\Debug\Lesson_3.1 NEW.csproj.SuggestedBindingRedirects.cache
+D:\Rissa\C# Базовый (ООП)\ДЗ\3.0_Inheritance\Lesson_3.1 NEW\obj\Debug\Lesson_3.1 NEW.csproj.CoreCompileInputs.cache
+D:\Rissa\C# Базовый (ООП)\ДЗ\3.0_Inheritance\Lesson_3.1 NEW\obj\Debug\Lesson_3.1 NEW.exe
+D:\Rissa\C# Базовый (ООП)\ДЗ\3.0_Inheritance\Lesson_3.1 NEW\obj\Debug\Lesson_3.1 NEW.pdb

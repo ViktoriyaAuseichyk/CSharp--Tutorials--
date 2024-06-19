@@ -1,0 +1,8 @@
+D:\Rissa\C# БАЗОВЫЙ (ООП)\ДЗ\1.0_Classes\Lesson_1.2\bin\Debug\Lesson_1.2.exe.config
+D:\Rissa\C# БАЗОВЫЙ (ООП)\ДЗ\1.0_Classes\Lesson_1.2\bin\Debug\Lesson_1.2.exe
+D:\Rissa\C# БАЗОВЫЙ (ООП)\ДЗ\1.0_Classes\Lesson_1.2\bin\Debug\Lesson_1.2.pdb
+D:\Rissa\C# БАЗОВЫЙ (ООП)\ДЗ\1.0_Classes\Lesson_1.2\obj\Debug\Lesson_1.2.csproj.AssemblyReference.cache
+D:\Rissa\C# БАЗОВЫЙ (ООП)\ДЗ\1.0_Classes\Lesson_1.2\obj\Debug\Lesson_1.2.csproj.SuggestedBindingRedirects.cache
+D:\Rissa\C# БАЗОВЫЙ (ООП)\ДЗ\1.0_Classes\Lesson_1.2\obj\Debug\Lesson_1.2.csproj.CoreCompileInputs.cache
+D:\Rissa\C# БАЗОВЫЙ (ООП)\ДЗ\1.0_Classes\Lesson_1.2\obj\Debug\Lesson_1.2.exe
+D:\Rissa\C# БАЗОВЫЙ (ООП)\ДЗ\1.0_Classes\Lesson_1.2\obj\Debug\Lesson_1.2.pdb

@@ -1,0 +1,43 @@
+﻿<?xml version ="1.0" encoding="utf-8"?>
+<MyContacts>
+	<Contact>
+		<Name> Виталий </Name>
+		<TelephoneNumber> +(48) 022 453 213 </TelephoneNumber>
+	</Contact>
+	<Contact>
+		<Name> Екатерина </Name>
+		<TelephoneNumber> +(48) 618 453 345 </TelephoneNumber>
+	</Contact>
+	<Contact>
+		<Name> Филипп </Name>
+		<TelephoneNumber> +(48) 099 445 211 </TelephoneNumber>
+	</Contact>
+	<Contact>
+		<Name> Татьяна </Name>
+		<TelephoneNumber> +(48) 638 577 213 </TelephoneNumber>
+	</Contact>
+	<Contact>
+		<Name> Светлана </Name>
+		<TelephoneNumber> +(48) 011 777 243 </TelephoneNumber>
+	</Contact>
+	<Contact>
+		<Name> Виктория </Name>
+		<TelephoneNumber> +(48) 123 453 963 </TelephoneNumber>
+	</Contact>
+	<Contact>
+		<Name> Максим </Name>
+		<TelephoneNumber> +(48) 678 000 123 </TelephoneNumber>
+	</Contact>
+	<Contact>
+		<Name> Павел </Name>
+		<TelephoneNumber> +(48) 378 466 900 </TelephoneNumber>
+	</Contact>
+	<Contact>
+		<Name> Наталья </Name>
+		<TelephoneNumber> +(48) 979 052 103 </TelephoneNumber>
+	</Contact>
+	<Contact>
+		<Name> Виталий </Name>
+		<TelephoneNumber> +(48) 112 689 013 </TelephoneNumber>
+	</Contact>
+</MyContacts>

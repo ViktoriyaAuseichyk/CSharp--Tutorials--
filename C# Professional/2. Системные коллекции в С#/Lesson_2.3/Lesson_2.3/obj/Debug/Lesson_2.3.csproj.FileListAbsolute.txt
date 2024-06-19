@@ -1,0 +1,7 @@
+D:\Vika\C# Professional\ДЗ\2. Системные коллекции в С#\Lesson_2.3\Lesson_2.3\obj\Debug\Lesson_2.3.csproj.AssemblyReference.cache
+D:\Vika\C# Professional\ДЗ\2. Системные коллекции в С#\Lesson_2.3\Lesson_2.3\obj\Debug\Lesson_2.3.csproj.CoreCompileInputs.cache
+D:\Vika\C# Professional\ДЗ\2. Системные коллекции в С#\Lesson_2.3\Lesson_2.3\bin\Debug\Lesson_2.3.exe.config
+D:\Vika\C# Professional\ДЗ\2. Системные коллекции в С#\Lesson_2.3\Lesson_2.3\bin\Debug\Lesson_2.3.exe
+D:\Vika\C# Professional\ДЗ\2. Системные коллекции в С#\Lesson_2.3\Lesson_2.3\bin\Debug\Lesson_2.3.pdb
+D:\Vika\C# Professional\ДЗ\2. Системные коллекции в С#\Lesson_2.3\Lesson_2.3\obj\Debug\Lesson_2.3.exe
+D:\Vika\C# Professional\ДЗ\2. Системные коллекции в С#\Lesson_2.3\Lesson_2.3\obj\Debug\Lesson_2.3.pdb

@@ -1,0 +1,8 @@
+D:\Rissa\С# 8.0 Стартовый\C#\24.1_Conditionals\Lesson_24.2\bin\Debug\Lesson_24.2.exe.config
+D:\Rissa\С# 8.0 Стартовый\C#\24.1_Conditionals\Lesson_24.2\bin\Debug\Lesson_24.2.exe
+D:\Rissa\С# 8.0 Стартовый\C#\24.1_Conditionals\Lesson_24.2\bin\Debug\Lesson_24.2.pdb
+D:\Rissa\С# 8.0 Стартовый\C#\24.1_Conditionals\Lesson_24.2\obj\Debug\Lesson_24.2.csproj.AssemblyReference.cache
+D:\Rissa\С# 8.0 Стартовый\C#\24.1_Conditionals\Lesson_24.2\obj\Debug\Lesson_24.2.csproj.SuggestedBindingRedirects.cache
+D:\Rissa\С# 8.0 Стартовый\C#\24.1_Conditionals\Lesson_24.2\obj\Debug\Lesson_24.2.csproj.CoreCompileInputs.cache
+D:\Rissa\С# 8.0 Стартовый\C#\24.1_Conditionals\Lesson_24.2\obj\Debug\Lesson_24.2.exe
+D:\Rissa\С# 8.0 Стартовый\C#\24.1_Conditionals\Lesson_24.2\obj\Debug\Lesson_24.2.pdb

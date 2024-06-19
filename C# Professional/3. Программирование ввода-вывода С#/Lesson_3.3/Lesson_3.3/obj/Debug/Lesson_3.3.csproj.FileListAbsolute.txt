@@ -1,0 +1,7 @@
+D:\Vika\C# Professional\ДЗ\3. Программирование ввода-вывода С#\Lesson_3.3\Lesson_3.3\obj\Debug\Lesson_3.3.csproj.AssemblyReference.cache
+D:\Vika\C# Professional\ДЗ\3. Программирование ввода-вывода С#\Lesson_3.3\Lesson_3.3\obj\Debug\Lesson_3.3.csproj.CoreCompileInputs.cache
+D:\Vika\C# Professional\ДЗ\3. Программирование ввода-вывода С#\Lesson_3.3\Lesson_3.3\bin\Debug\Lesson_3.3.exe.config
+D:\Vika\C# Professional\ДЗ\3. Программирование ввода-вывода С#\Lesson_3.3\Lesson_3.3\bin\Debug\Lesson_3.3.exe
+D:\Vika\C# Professional\ДЗ\3. Программирование ввода-вывода С#\Lesson_3.3\Lesson_3.3\bin\Debug\Lesson_3.3.pdb
+D:\Vika\C# Professional\ДЗ\3. Программирование ввода-вывода С#\Lesson_3.3\Lesson_3.3\obj\Debug\Lesson_3.3.exe
+D:\Vika\C# Professional\ДЗ\3. Программирование ввода-вывода С#\Lesson_3.3\Lesson_3.3\obj\Debug\Lesson_3.3.pdb

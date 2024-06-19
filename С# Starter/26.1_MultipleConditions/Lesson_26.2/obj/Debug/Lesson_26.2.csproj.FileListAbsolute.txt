@@ -1,0 +1,8 @@
+D:\Rissa\С# 8.0 Стартовый\C#\26.1_MultipleConditions\Lesson_26.2\obj\Debug\Lesson_26.2.csproj.AssemblyReference.cache
+D:\Rissa\С# 8.0 Стартовый\C#\26.1_MultipleConditions\Lesson_26.2\obj\Debug\Lesson_26.2.csproj.SuggestedBindingRedirects.cache
+D:\Rissa\С# 8.0 Стартовый\C#\26.1_MultipleConditions\Lesson_26.2\obj\Debug\Lesson_26.2.csproj.CoreCompileInputs.cache
+D:\Rissa\С# 8.0 Стартовый\C#\26.1_MultipleConditions\Lesson_26.2\bin\Debug\Lesson_26.2.exe.config
+D:\Rissa\С# 8.0 Стартовый\C#\26.1_MultipleConditions\Lesson_26.2\bin\Debug\Lesson_26.2.exe
+D:\Rissa\С# 8.0 Стартовый\C#\26.1_MultipleConditions\Lesson_26.2\bin\Debug\Lesson_26.2.pdb
+D:\Rissa\С# 8.0 Стартовый\C#\26.1_MultipleConditions\Lesson_26.2\obj\Debug\Lesson_26.2.exe
+D:\Rissa\С# 8.0 Стартовый\C#\26.1_MultipleConditions\Lesson_26.2\obj\Debug\Lesson_26.2.pdb

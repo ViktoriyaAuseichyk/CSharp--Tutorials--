@@ -1,0 +1,8 @@
+D:\Vika\C# Базовый (ООП)\ДЗ\8. Перечисление (enum)\Lesson_8.1\Lesson_8.1\bin\Debug\Lesson_8.1.exe.config
+D:\Vika\C# Базовый (ООП)\ДЗ\8. Перечисление (enum)\Lesson_8.1\Lesson_8.1\bin\Debug\Lesson_8.1.exe
+D:\Vika\C# Базовый (ООП)\ДЗ\8. Перечисление (enum)\Lesson_8.1\Lesson_8.1\bin\Debug\Lesson_8.1.pdb
+D:\Vika\C# Базовый (ООП)\ДЗ\8. Перечисление (enum)\Lesson_8.1\Lesson_8.1\obj\Debug\Lesson_8.1.csproj.AssemblyReference.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\8. Перечисление (enum)\Lesson_8.1\Lesson_8.1\obj\Debug\Lesson_8.1.csproj.SuggestedBindingRedirects.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\8. Перечисление (enum)\Lesson_8.1\Lesson_8.1\obj\Debug\Lesson_8.1.csproj.CoreCompileInputs.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\8. Перечисление (enum)\Lesson_8.1\Lesson_8.1\obj\Debug\Lesson_8.1.exe
+D:\Vika\C# Базовый (ООП)\ДЗ\8. Перечисление (enum)\Lesson_8.1\Lesson_8.1\obj\Debug\Lesson_8.1.pdb

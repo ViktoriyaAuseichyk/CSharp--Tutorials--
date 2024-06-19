@@ -1,0 +1,8 @@
+D:\Rissa\С# 8.0 Стартовый\C#\22.1_CheckedUnchecked\Lesson_22.2\bin\Debug\Lesson_22.2.exe.config
+D:\Rissa\С# 8.0 Стартовый\C#\22.1_CheckedUnchecked\Lesson_22.2\bin\Debug\Lesson_22.2.exe
+D:\Rissa\С# 8.0 Стартовый\C#\22.1_CheckedUnchecked\Lesson_22.2\bin\Debug\Lesson_22.2.pdb
+D:\Rissa\С# 8.0 Стартовый\C#\22.1_CheckedUnchecked\Lesson_22.2\obj\Debug\Lesson_22.2.csproj.AssemblyReference.cache
+D:\Rissa\С# 8.0 Стартовый\C#\22.1_CheckedUnchecked\Lesson_22.2\obj\Debug\Lesson_22.2.csproj.SuggestedBindingRedirects.cache
+D:\Rissa\С# 8.0 Стартовый\C#\22.1_CheckedUnchecked\Lesson_22.2\obj\Debug\Lesson_22.2.csproj.CoreCompileInputs.cache
+D:\Rissa\С# 8.0 Стартовый\C#\22.1_CheckedUnchecked\Lesson_22.2\obj\Debug\Lesson_22.2.exe
+D:\Rissa\С# 8.0 Стартовый\C#\22.1_CheckedUnchecked\Lesson_22.2\obj\Debug\Lesson_22.2.pdb

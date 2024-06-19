@@ -1,0 +1,8 @@
+D:\Rissa\С# 8.0 Стартовый\ДЗ\28.1_TernaryOperator\Lesson_28.1\bin\Debug\Lesson_28.1.exe.config
+D:\Rissa\С# 8.0 Стартовый\ДЗ\28.1_TernaryOperator\Lesson_28.1\bin\Debug\Lesson_28.1.exe
+D:\Rissa\С# 8.0 Стартовый\ДЗ\28.1_TernaryOperator\Lesson_28.1\bin\Debug\Lesson_28.1.pdb
+D:\Rissa\С# 8.0 Стартовый\ДЗ\28.1_TernaryOperator\Lesson_28.1\obj\Debug\Lesson_28.1.csproj.AssemblyReference.cache
+D:\Rissa\С# 8.0 Стартовый\ДЗ\28.1_TernaryOperator\Lesson_28.1\obj\Debug\Lesson_28.1.csproj.SuggestedBindingRedirects.cache
+D:\Rissa\С# 8.0 Стартовый\ДЗ\28.1_TernaryOperator\Lesson_28.1\obj\Debug\Lesson_28.1.csproj.CoreCompileInputs.cache
+D:\Rissa\С# 8.0 Стартовый\ДЗ\28.1_TernaryOperator\Lesson_28.1\obj\Debug\Lesson_28.1.exe
+D:\Rissa\С# 8.0 Стартовый\ДЗ\28.1_TernaryOperator\Lesson_28.1\obj\Debug\Lesson_28.1.pdb

@@ -1,0 +1,5 @@
+Name: Potato, Count: 0.8, Price: 2.58, FullPrice: 2.064
+Name: Salat, Count: 2, Price: 5.08, FullPrice: 10.16
+Name: Carrot, Count: 0.6, Price: 3.26, FullPrice: 1.956
+Name: Nut, Count: 1.2, Price: 15.02, FullPrice: 18.024
+Name: Beef, Count: 1.8, Price: 10.04, FullPrice: 18.072

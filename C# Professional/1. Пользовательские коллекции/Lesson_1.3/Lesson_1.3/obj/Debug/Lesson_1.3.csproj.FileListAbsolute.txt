@@ -1,0 +1,7 @@
+D:\Vika\C# Professional\ДЗ\1. Пользовательские коллекции\Lesson_1.3\Lesson_1.3\bin\Debug\Lesson_1.3.exe.config
+D:\Vika\C# Professional\ДЗ\1. Пользовательские коллекции\Lesson_1.3\Lesson_1.3\bin\Debug\Lesson_1.3.exe
+D:\Vika\C# Professional\ДЗ\1. Пользовательские коллекции\Lesson_1.3\Lesson_1.3\bin\Debug\Lesson_1.3.pdb
+D:\Vika\C# Professional\ДЗ\1. Пользовательские коллекции\Lesson_1.3\Lesson_1.3\obj\Debug\Lesson_1.3.csproj.AssemblyReference.cache
+D:\Vika\C# Professional\ДЗ\1. Пользовательские коллекции\Lesson_1.3\Lesson_1.3\obj\Debug\Lesson_1.3.csproj.CoreCompileInputs.cache
+D:\Vika\C# Professional\ДЗ\1. Пользовательские коллекции\Lesson_1.3\Lesson_1.3\obj\Debug\Lesson_1.3.exe
+D:\Vika\C# Professional\ДЗ\1. Пользовательские коллекции\Lesson_1.3\Lesson_1.3\obj\Debug\Lesson_1.3.pdb

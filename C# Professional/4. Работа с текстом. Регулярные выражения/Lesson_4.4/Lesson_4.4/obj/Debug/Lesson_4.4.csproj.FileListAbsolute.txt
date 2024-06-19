@@ -1,0 +1,7 @@
+D:\Vika\C# Professional\ДЗ\4. Работа с текстом. Регулярные выражения\Lesson_4.4\Lesson_4.4\bin\Debug\Lesson_4.4.exe.config
+D:\Vika\C# Professional\ДЗ\4. Работа с текстом. Регулярные выражения\Lesson_4.4\Lesson_4.4\bin\Debug\Lesson_4.4.exe
+D:\Vika\C# Professional\ДЗ\4. Работа с текстом. Регулярные выражения\Lesson_4.4\Lesson_4.4\bin\Debug\Lesson_4.4.pdb
+D:\Vika\C# Professional\ДЗ\4. Работа с текстом. Регулярные выражения\Lesson_4.4\Lesson_4.4\obj\Debug\Lesson_4.4.csproj.AssemblyReference.cache
+D:\Vika\C# Professional\ДЗ\4. Работа с текстом. Регулярные выражения\Lesson_4.4\Lesson_4.4\obj\Debug\Lesson_4.4.csproj.CoreCompileInputs.cache
+D:\Vika\C# Professional\ДЗ\4. Работа с текстом. Регулярные выражения\Lesson_4.4\Lesson_4.4\obj\Debug\Lesson_4.4.exe
+D:\Vika\C# Professional\ДЗ\4. Работа с текстом. Регулярные выражения\Lesson_4.4\Lesson_4.4\obj\Debug\Lesson_4.4.pdb

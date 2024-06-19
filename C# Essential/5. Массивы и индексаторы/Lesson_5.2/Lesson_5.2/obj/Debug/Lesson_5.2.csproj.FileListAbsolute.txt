@@ -1,0 +1,8 @@
+D:\Vika\C# Базовый (ООП)\ДЗ\5.2_Indexers\Lesson_5.2\Lesson_5.2\obj\Debug\Lesson_5.2.csproj.AssemblyReference.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\5.2_Indexers\Lesson_5.2\Lesson_5.2\obj\Debug\Lesson_5.2.csproj.SuggestedBindingRedirects.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\5.2_Indexers\Lesson_5.2\Lesson_5.2\obj\Debug\Lesson_5.2.csproj.CoreCompileInputs.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\5.2_Indexers\Lesson_5.2\Lesson_5.2\bin\Debug\Lesson_5.2.exe.config
+D:\Vika\C# Базовый (ООП)\ДЗ\5.2_Indexers\Lesson_5.2\Lesson_5.2\bin\Debug\Lesson_5.2.exe
+D:\Vika\C# Базовый (ООП)\ДЗ\5.2_Indexers\Lesson_5.2\Lesson_5.2\bin\Debug\Lesson_5.2.pdb
+D:\Vika\C# Базовый (ООП)\ДЗ\5.2_Indexers\Lesson_5.2\Lesson_5.2\obj\Debug\Lesson_5.2.exe
+D:\Vika\C# Базовый (ООП)\ДЗ\5.2_Indexers\Lesson_5.2\Lesson_5.2\obj\Debug\Lesson_5.2.pdb

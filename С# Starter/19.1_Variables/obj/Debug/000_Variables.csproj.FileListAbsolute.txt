@@ -1,0 +1,8 @@
+D:\Rissa\С# 8.0 Стартовый\C#\19.1_Variables\bin\Debug\Variables.exe.config
+D:\Rissa\С# 8.0 Стартовый\C#\19.1_Variables\bin\Debug\Variables.exe
+D:\Rissa\С# 8.0 Стартовый\C#\19.1_Variables\bin\Debug\Variables.pdb
+D:\Rissa\С# 8.0 Стартовый\C#\19.1_Variables\obj\Debug\000_Variables.csproj.AssemblyReference.cache
+D:\Rissa\С# 8.0 Стартовый\C#\19.1_Variables\obj\Debug\000_Variables.csproj.SuggestedBindingRedirects.cache
+D:\Rissa\С# 8.0 Стартовый\C#\19.1_Variables\obj\Debug\000_Variables.csproj.CoreCompileInputs.cache
+D:\Rissa\С# 8.0 Стартовый\C#\19.1_Variables\obj\Debug\Variables.exe
+D:\Rissa\С# 8.0 Стартовый\C#\19.1_Variables\obj\Debug\Variables.pdb

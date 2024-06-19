@@ -1,0 +1,8 @@
+D:\Rissa\С# 8.0 Стартовый\ДЗ\30.1_Arrays\Lesson_30.2\bin\Debug\Lesson_30.2.exe.config
+D:\Rissa\С# 8.0 Стартовый\ДЗ\30.1_Arrays\Lesson_30.2\bin\Debug\Lesson_30.2.exe
+D:\Rissa\С# 8.0 Стартовый\ДЗ\30.1_Arrays\Lesson_30.2\bin\Debug\Lesson_30.2.pdb
+D:\Rissa\С# 8.0 Стартовый\ДЗ\30.1_Arrays\Lesson_30.2\obj\Debug\Lesson_30.2.csproj.AssemblyReference.cache
+D:\Rissa\С# 8.0 Стартовый\ДЗ\30.1_Arrays\Lesson_30.2\obj\Debug\Lesson_30.2.csproj.SuggestedBindingRedirects.cache
+D:\Rissa\С# 8.0 Стартовый\ДЗ\30.1_Arrays\Lesson_30.2\obj\Debug\Lesson_30.2.csproj.CoreCompileInputs.cache
+D:\Rissa\С# 8.0 Стартовый\ДЗ\30.1_Arrays\Lesson_30.2\obj\Debug\Lesson_30.2.exe
+D:\Rissa\С# 8.0 Стартовый\ДЗ\30.1_Arrays\Lesson_30.2\obj\Debug\Lesson_30.2.pdb

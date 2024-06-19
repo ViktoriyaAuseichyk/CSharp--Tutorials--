@@ -1,0 +1,8 @@
+D:\Vika\C#\Homework\Lesson_11.2\bin\Debug\Lesson_11.2.exe.config
+D:\Vika\C#\Homework\Lesson_11.2\bin\Debug\Lesson_11.2.exe
+D:\Vika\C#\Homework\Lesson_11.2\bin\Debug\Lesson_11.2.pdb
+D:\Vika\C#\Homework\Lesson_11.2\obj\Debug\Lesson_11.2.csproj.AssemblyReference.cache
+D:\Vika\C#\Homework\Lesson_11.2\obj\Debug\Lesson_11.2.csproj.SuggestedBindingRedirects.cache
+D:\Vika\C#\Homework\Lesson_11.2\obj\Debug\Lesson_11.2.csproj.CoreCompileInputs.cache
+D:\Vika\C#\Homework\Lesson_11.2\obj\Debug\Lesson_11.2.exe
+D:\Vika\C#\Homework\Lesson_11.2\obj\Debug\Lesson_11.2.pdb

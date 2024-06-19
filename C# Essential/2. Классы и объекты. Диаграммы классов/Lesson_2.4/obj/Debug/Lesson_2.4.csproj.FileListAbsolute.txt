@@ -1,0 +1,8 @@
+D:\Rissa\C# Базовый (ООП)\ДЗ\2.0_Classes\Lesson_2.4\bin\Debug\Lesson_2.4.exe.config
+D:\Rissa\C# Базовый (ООП)\ДЗ\2.0_Classes\Lesson_2.4\bin\Debug\Lesson_2.4.exe
+D:\Rissa\C# Базовый (ООП)\ДЗ\2.0_Classes\Lesson_2.4\bin\Debug\Lesson_2.4.pdb
+D:\Rissa\C# Базовый (ООП)\ДЗ\2.0_Classes\Lesson_2.4\obj\Debug\Lesson_2.4.csproj.AssemblyReference.cache
+D:\Rissa\C# Базовый (ООП)\ДЗ\2.0_Classes\Lesson_2.4\obj\Debug\Lesson_2.4.csproj.SuggestedBindingRedirects.cache
+D:\Rissa\C# Базовый (ООП)\ДЗ\2.0_Classes\Lesson_2.4\obj\Debug\Lesson_2.4.csproj.CoreCompileInputs.cache
+D:\Rissa\C# Базовый (ООП)\ДЗ\2.0_Classes\Lesson_2.4\obj\Debug\Lesson_2.4.exe
+D:\Rissa\C# Базовый (ООП)\ДЗ\2.0_Classes\Lesson_2.4\obj\Debug\Lesson_2.4.pdb

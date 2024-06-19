@@ -1,0 +1,8 @@
+D:\Vika\C# Базовый (ООП)\ДЗ\7. Структура и их разновидности\Lesson_7.1\Lesson_7.1\bin\Debug\Lesson_7.1.exe.config
+D:\Vika\C# Базовый (ООП)\ДЗ\7. Структура и их разновидности\Lesson_7.1\Lesson_7.1\bin\Debug\Lesson_7.1.exe
+D:\Vika\C# Базовый (ООП)\ДЗ\7. Структура и их разновидности\Lesson_7.1\Lesson_7.1\bin\Debug\Lesson_7.1.pdb
+D:\Vika\C# Базовый (ООП)\ДЗ\7. Структура и их разновидности\Lesson_7.1\Lesson_7.1\obj\Debug\Lesson_7.1.csproj.AssemblyReference.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\7. Структура и их разновидности\Lesson_7.1\Lesson_7.1\obj\Debug\Lesson_7.1.csproj.SuggestedBindingRedirects.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\7. Структура и их разновидности\Lesson_7.1\Lesson_7.1\obj\Debug\Lesson_7.1.csproj.CoreCompileInputs.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\7. Структура и их разновидности\Lesson_7.1\Lesson_7.1\obj\Debug\Lesson_7.1.exe
+D:\Vika\C# Базовый (ООП)\ДЗ\7. Структура и их разновидности\Lesson_7.1\Lesson_7.1\obj\Debug\Lesson_7.1.pdb

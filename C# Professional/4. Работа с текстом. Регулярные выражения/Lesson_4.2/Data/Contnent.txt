@@ -1,0 +1,1596 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#"
+      lang="ru-RU">
+<head>
+
+    <link rel="preload" href="/content/fonts/itvdn-icons/fonts/itvdn-icons.ttf?z05fyo" as="font" type="font/ttf" crossorigin />
+    <link rel="preload" href="/content/fonts/Gilroy/Gilroy-ExtraBold.ttf" as="font" type="font/ttf" crossorigin />
+    <link rel="preload" href="/Content/css/libs/slick/fonts/slick.woff" as="font" type="font/woff" crossorigin />
+    <link rel="preload" href="/Content/practicum/styles/fonts/fonts-awesome/fontawesome-webfont.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="stylesheet" href="/Content/fonts/font-awesome/fontawesome.min.css">
+
+    <script src="/bundles/js/cookies?v=2AXtaIjW-gBePI-daSEhg9RSOiIkXl8w09xS7V5NdCg1"></script>
+
+
+    <script>
+        window.isDevelopment = false;
+    </script>
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+
+<script src="https://www.artfut.com/static/tagtag.min.js?campaign_code=8e10cc9ac9" async onerror='var self = this;window.ADMITAD=window.ADMITAD||{},ADMITAD.Helpers=ADMITAD.Helpers||{},ADMITAD.Helpers.generateDomains=function(){for(var e=new Date,n=Math.floor(new Date(2020,e.getMonth(),e.getDate()).setUTCHours(0,0,0,0)/1e3),t=parseInt(1e12*(Math.sin(n)+1)).toString(30),i=["de"],o=[],a=0;a<i.length;++a)o.push({domain:t+"."+i[a],name:t});return o},ADMITAD.Helpers.findTodaysDomain=function(e){function n(){var o=new XMLHttpRequest,a=i[t].domain,D="https://"+a+"/";o.open("HEAD",D,!0),o.onload=function(){setTimeout(e,0,i[t])},o.onerror=function(){++t<i.length?setTimeout(n,0):setTimeout(e,0,void 0)},o.send()}var t=0,i=ADMITAD.Helpers.generateDomains();n()},window.ADMITAD=window.ADMITAD||{},ADMITAD.Helpers.findTodaysDomain(function(e){if(window.ADMITAD.dynamic=e,window.ADMITAD.dynamic){var n=function(){return function(){return self.src?self:""}}(),t=n(),i=(/campaign_code=([^&]+)/.exec(t.src)||[])[1]||"";t.parentNode.removeChild(t);var o=document.getElementsByTagName("head")[0],a=document.createElement("script");a.src="https://www."+window.ADMITAD.dynamic.domain+"/static/"+window.ADMITAD.dynamic.name.slice(1)+window.ADMITAD.dynamic.name.slice(0,1)+".min.js?campaign_code="+i,o.appendChild(a)}});'></script>
+
+<script type="text/javascript">
+    (function () {
+        window.ADMITAD = window.ADMITAD || {};
+
+        let admitad = window.ADMITAD;
+        admitad.Invoice = admitad.Invoice || {};
+
+        let invoice = admitad.Invoice;
+
+        let cookie = getCookie('UtmToken');
+
+        if (!cookie) {
+            invoice.broker = 'na';
+        } else if (cookie != 'admitad') {
+            invoice.broker = cookie;
+        } else {
+            invoice.broker = 'adm';
+        }
+    })()
+</script><script>
+    window.dataLayer = window.dataLayer || []
+    window.dataLayer.push({
+        "Client_ID": "Non-Authorized",
+    });
+</script>        <script>
+            (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-P4KPXVQ');
+        </script>
+        <meta name="facebook-domain-verification" content="5zpe9rl9o927o6co8zsmwsq6ssr88k" />
+        <script>
+            !function (f, b, e, v, n, t, s) { if (f.fbq) return; n = f.fbq = function () { n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments) }; if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0; t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s) }(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '851500435026888');
+            fbq('track', 'PageView');
+        </script>
+        <noscript><img height="1" width="1" src="https://www.facebook.com/tr?id=851500435026888&ev=PageView" /></noscript>
+
+    
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta name="description" content="Контакты, время работы поддержки ITVDN и форма обратной связи">
+    <meta property="fb:app_id" content="1675830786030350">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Запрос в службу поддержки">
+<meta property="og:url" content="https://itvdn.com/ru/support">
+<meta property="og:site_name" content="ITVDN">
+<meta property="og:description" content="Контакты, время работы поддержки ITVDN и форма обратной связи">
+<meta property="og:image" content="/Content/img/support/ru-support.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Запрос в службу поддержки">
+<meta name="twitter:url" content="https://itvdn.com/ru/support">
+<meta name="twitter:site" content="ITVDN">
+<meta name="twitter:description" content="Контакты, время работы поддержки ITVDN и форма обратной связи">
+<meta name="twitter:image" content="/Content/img/support/ru-support.jpg">
+
+
+
+
+    <title>Запрос в службу поддержки</title>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/Content/img/common/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/Content/img/common/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/Content/img/common/favicon-16x16.png">
+<link rel="manifest" href="/Content/img/common/site.json">
+<link rel="mask-icon" href="/Content/img/common/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/Content/img/common/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/Content/img/common/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+
+    <link rel="stylesheet" type="text/css" href="/bundles/css/layout?v=aK-H4AWhsycSa7qj9USOKNDov-BOll6gvcMpgsuPPmQ1" />
+
+    
+    
+    <link rel="stylesheet" type="text/css" href="/bundles/css/static-pages/support?v=o0mJqWLfqjc06NlFnBuspVpV6vYpNbI9xlAGgbqseW81" />
+
+    
+    
+    <link rel="canonical" href="https://itvdn.com/ru/support" />
+
+    
+
+    <style>
+        body {
+            position: relative;
+        }
+
+        .before-loading-bg {
+            position: fixed;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            background-color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 999999999999;
+            overflow-x: hidden;
+            transition: 0.5s all ease-in;
+        }
+
+        .sk-folding-cube {
+            width: 40px;
+            height: 40px;
+            position: relative;
+            -webkit-transform: rotateZ(45deg);
+            transform: rotateZ(45deg);
+        }
+
+            .sk-folding-cube .sk-cube {
+                float: left;
+                width: 50%;
+                height: 50%;
+                position: relative;
+                -webkit-transform: scale(1.1);
+                -ms-transform: scale(1.1);
+                transform: scale(1.1);
+            }
+
+                .sk-folding-cube .sk-cube:before {
+                    content: '';
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                    -webkit-animation: sk-foldCubeAngle 2.4s infinite linear both;
+                    animation: sk-foldCubeAngle 2.4s infinite linear both;
+                    -webkit-transform-origin: 100% 100%;
+                    -ms-transform-origin: 100% 100%;
+                    transform-origin: 100% 100%;
+                    background-color: #F3520C;
+                }
+
+            .sk-folding-cube .sk-cube2 {
+                -webkit-transform: scale(1.1) rotateZ(90deg);
+                transform: scale(1.1) rotateZ(90deg);
+            }
+
+            .sk-folding-cube .sk-cube3 {
+                -webkit-transform: scale(1.1) rotateZ(180deg);
+                transform: scale(1.1) rotateZ(180deg);
+            }
+
+            .sk-folding-cube .sk-cube4 {
+                -webkit-transform: scale(1.1) rotateZ(270deg);
+                transform: scale(1.1) rotateZ(270deg);
+            }
+
+            .sk-folding-cube .sk-cube2:before {
+                -webkit-animation-delay: 0.3s;
+                animation-delay: 0.3s;
+            }
+
+            .sk-folding-cube .sk-cube3:before {
+                -webkit-animation-delay: 0.6s;
+                animation-delay: 0.6s;
+            }
+
+            .sk-folding-cube .sk-cube4:before {
+                -webkit-animation-delay: 0.9s;
+                animation-delay: 0.9s;
+            }
+
+        @-webkit-keyframes sk-foldCubeAngle {
+            0%, 10% {
+                -webkit-transform: perspective(140px) rotateX(-180deg);
+                transform: perspective(140px) rotateX(-180deg);
+                opacity: 0;
+            }
+
+            25%, 75% {
+                -webkit-transform: perspective(140px) rotateX(0deg);
+                transform: perspective(140px) rotateX(0deg);
+                opacity: 1;
+            }
+
+            90%, 100% {
+                -webkit-transform: perspective(140px) rotateY(180deg);
+                transform: perspective(140px) rotateY(180deg);
+                opacity: 0;
+            }
+        }
+
+        @keyframes sk-foldCubeAngle {
+            0%, 10% {
+                -webkit-transform: perspective(140px) rotateX(-180deg);
+                transform: perspective(140px) rotateX(-180deg);
+                opacity: 0;
+            }
+
+            25%, 75% {
+                -webkit-transform: perspective(140px) rotateX(0deg);
+                transform: perspective(140px) rotateX(0deg);
+                opacity: 1;
+            }
+
+            90%, 100% {
+                -webkit-transform: perspective(140px) rotateY(180deg);
+                transform: perspective(140px) rotateY(180deg);
+                opacity: 0;
+            }
+        }
+    </style>
+    
+</head>
+<body>
+    
+
+
+        <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P4KPXVQ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+
+    
+
+<div class="side-menu">
+    <div class="top-bunner">
+        
+    <a href="/ru" class="logo-link">
+            <div class="logo-img-wrapper">
+        <img src="/Content/img/header/logo.svg" alt="ITVDN: курсы программирования" title="ITVDN logo">
+    </div>
+    <div class="logo-text-wrapper">
+        <span>Видеокурсы по <br /> программированию</span>
+    </div>
+
+    </a>
+
+
+        <div class="search-cabinet-block none-display cabinet-left">
+                <div class="localization-block">
+        <div class="localization-block__dropdown">
+            <div class="localization-block__select">
+                <div class="localization-block__selected"></div>
+                <span class="localization-block__icon itvdnicon-play-arrow"></span>
+            </div>
+            <ul class="localization-block__dropdown-menu"></ul>
+        </div>
+    </div>
+
+
+            
+<div class="top-menu">
+
+    <div class="top-menu__btns display-flex open-login-modal-btn">
+            <div class="top-menu__auth-btn-wrapper display-flex">
+                <span class="itvdnicon-login"></span>
+                <span class="top-menu__auth-btn">Авторизация</span>
+            </div>
+    </div>
+</div>
+
+            <div class="burger-menu">
+                <div class="burger-menu__button">
+                    <span class="burger-menu__lines"></span>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <div class="side-menu-wrapper">
+        <div class="menu-items-wrapper">
+            <ul class="menu-items-list first-level">
+                <li data-url-active="/ru/(catalog|video)">
+                    <a href="/ru/catalog" class="menu-item">
+                        <div>
+                            <span class="itvdnicon-video-catalog menu-item-icon"></span>
+                            <span class="menu-item-name">Каталог видеокурсов</span>
+                        </div>
+                    </a>
+                </li>
+
+                <li class="desktop" data-url-active="/ru/specialities">
+                    <a class="menu-item">
+                        <div>
+                            <span class="itvdnicon-it-company menu-item-icon"></span>
+                            <span class="menu-item-name">IT специальности</span>
+                        </div>
+                        <span class="itvdnicon-play-arrow"></span>
+                    </a>
+                    <div class="dropdown-block specialties">
+                        
+
+<div class="bg-fixed"></div>
+
+<div class="sub-menu-container width-3x">
+
+        <ul class="menu-items-list second-level float-left">
+                <li>
+                    <a class="menu-item default-behaviour" href="/ru/start">
+                        <div>
+                            <span class="menu-item-icon itvdnicon-icon_start-up"></span>
+                            <span class="menu-item-name">С чего начать?</span>
+                        </div>
+                    </a>
+                </li>
+
+                <li>
+                    <a class="menu-item default-behaviour" href="/ru/specialities/frontend-developer">
+                        <div>
+                            <span class="menu-item-icon itvdnicon-frontend-new"></span>
+                            <span class="menu-item-name">Front-end</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="menu-item default-behaviour" href="/ru/specialities/html-coder">
+                        <div>
+                            <span class="menu-item-icon itvdnicon-HTML"></span>
+                            <span class="menu-item-name">Верстка сайтов</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="menu-item default-behaviour" href="/ru/specialities/js">
+                        <div>
+                            <span class="menu-item-icon itvdnicon-JS"></span>
+                            <span class="menu-item-name">JavaScript</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="menu-item default-behaviour" href="/ru/specialities/react-developer">
+                        <div>
+                            <span class="menu-item-icon itvdnicon-react"></span>
+                            <span class="menu-item-name">React</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="menu-item default-behaviour" href="/ru/specialities/angular-dev">
+                        <div>
+                            <span class="menu-item-icon itvdnicon-angular"></span>
+                            <span class="menu-item-name">Angular</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="menu-item default-behaviour" href="/ru/specialities/ux-ui-designer">
+                        <div>
+                            <span class="menu-item-icon itvdnicon-uxui"></span>
+                            <span class="menu-item-name">UI/UX Design</span>
+                        </div>
+                    </a>
+                </li>
+        </ul>
+        <ul class="menu-items-list second-level float-left">
+
+                <li>
+                    <a class="menu-item default-behaviour" href="/ru/specialities/python-developer">
+                        <div>
+                            <span class="menu-item-icon itvdnicon-python-developer"></span>
+                            <span class="menu-item-name">Python</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="menu-item default-behaviour" href="/ru/specialities/net-developer">
+                        <div>
+                            <span class="menu-item-icon itvdnicon-net-developer"></span>
+                            <span class="menu-item-name">C#/.NET</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="menu-item default-behaviour" href="/ru/specialities/aspnet-core">
+                        <div>
+                            <span class="menu-item-icon itvdnicon-asp-net-core"></span>
+                            <span class="menu-item-name">ASP.NET Core</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="menu-item default-behaviour" href="/ru/specialities/backend-developer">
+                        <div>
+                            <span class="menu-item-icon itvdnicon-solution-architect"></span>
+                            <span class="menu-item-name">ASP.NET MVC</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="menu-item default-behaviour" href="/ru/specialities/dnet-desktop-dev">
+                        <div>
+                            <span class="menu-item-icon itvdnicon-wpf"></span>
+                            <span class="menu-item-name">C# WPF &amp; UWP</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="menu-item default-behaviour" href="/ru/specialities/game-developer">
+                        <div>
+                            <span class="menu-item-icon itvdnicon-game-developer"></span>
+                            <span class="menu-item-name">Unity/Game Dev</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="menu-item default-behaviour" href="/ru/specialities/database-developer">
+                        <div>
+                            <span class="menu-item-icon itvdnicon-database-developer11"></span>
+                            <span class="menu-item-name">Databases</span>
+                        </div>
+                    </a>
+                </li>
+        </ul>
+        <ul class="menu-items-list second-level float-left">
+
+                <li>
+                    <a class="menu-item default-behaviour" href="/ru/specialities/java-developer">
+                        <div>
+                            <span class="menu-item-icon itvdnicon-Java"></span>
+                            <span class="menu-item-name">Java</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="menu-item default-behaviour" href="/ru/specialities/android-dev">
+                        <div>
+                            <span class="menu-item-icon itvdnicon-android"></span>
+                            <span class="menu-item-name">Android</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="menu-item default-behaviour" href="/ru/specialities/ios-developer">
+                        <div>
+                            <span class="menu-item-icon itvdnicon-ios"></span>
+                            <span class="menu-item-name">iOS</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="menu-item default-behaviour" href="/ru/specialities/qa">
+                        <div>
+                            <span class="menu-item-icon itvdnicon-qa-developer"></span>
+                            <span class="menu-item-name">Quality Assurance</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="menu-item default-behaviour" href="/ru/specialities/cplspls">
+                        <div>
+                            <span class="menu-item-icon itvdnicon-cpp"></span>
+                            <span class="menu-item-name">C++</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="menu-item default-behaviour" href="/ru/specialities/php-developer">
+                        <div>
+                            <span class="menu-item-icon itvdnicon-PHP"></span>
+                            <span class="menu-item-name">PHP</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a class="menu-item default-behaviour" href="/ru/specialities/ruby">
+                        <div>
+                            <span class="menu-item-icon itvdnicon-ruby"></span>
+                            <span class="menu-item-name">Ruby</span>
+                        </div>
+                    </a>
+                </li>
+        </ul>
+    <div class="clearfix"></div>
+    <div class="btn-box align-center">
+        <a class="btn-orange-border-white-font" href="/ru/specialities">Все специальности</a>
+    </div>
+</div>
+                    </div>
+                </li>
+
+                <li class="desktop menu-liveonline-item">
+                    <a class="menu-item">
+                        <div>
+                            <span class="itvdnicon2-EduWithTrainer menu-item-icon"></span>
+                            <span class="menu-item-name">Обучение с тренером</span>
+                        </div>
+                        <span class="itvdnicon-play-arrow"></span>
+                    </a>
+
+                    <div class="dropdown-block lo-specialities">
+                        <div class="bg-fixed"></div>
+                        <div class="bg-fixed"></div>
+                        <div class="sub-menu-container width-2x" style="width: 310px!important;">
+
+                            <ul class="menu-items-list second-level float-left" style="width: 100%;">
+                                <li>
+                                    <a class="menu-item default-behaviour" href="/ru/live-online/frontend-developer">
+                                        <div>
+                                            <span class="smaller-menu-item-icon itvdnicon-frontend-new"></span>
+                                            <span class="menu-item-name">Frontend Developer</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="menu-item default-behaviour" href="/ru/live-online/net-developer">
+                                        <div>
+                                            <span class="menu-item-icon itvdnicon-net-developer"></span>
+                                            <span class="menu-item-name">.NET Developer</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="menu-item default-behaviour" href="/ru/live-online/java-developer">
+                                        <div>
+                                            <span class="menu-item-icon itvdnicon-Java"></span>
+                                            <span class="menu-item-name">Java Developer</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="menu-item default-behaviour" href="/ru/live-online/python-developer">
+                                        <div>
+                                            <span class="menu-item-icon itvdnicon-python-developer"></span>
+                                            <span class="menu-item-name">Python Developer</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="menu-item default-behaviour" href="/ru/live-online/nodejs-developer">
+                                        <div>
+                                            <span class="menu-item-icon itvdnicon-js-developer"></span>
+                                            <span class="menu-item-name">Full Stack Developer</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="menu-item default-behaviour" href="/ru/live-online/qa-manual">
+                                        <div>
+                                            <span class="menu-item-icon itvdnicon-qa-developer"></span>
+                                            <span class="menu-item-name">QA. Тестирование ПО</span>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+
+                            <div class="clearfix"></div>
+                        </div>
+
+                    </div>
+                </li>
+                <li class="mobile">
+                    <a href="/ru/specialities" class="menu-item">
+                        <div>
+                            <span class="itvdnicon-it-company menu-item-icon"></span>
+                            <span class="menu-item-name">IT специальности</span>
+                        </div>
+                    </a>
+                </li>
+
+                <li class="mobile">
+                    <a class="menu-item open-accordion">
+                        <div>
+                            <span class="itvdnicon2-EduWithTrainer menu-item-icon"></span>
+                            <span class="menu-item-name">Обучение с тренером</span>
+                        </div>
+                    </a>
+
+                    <div class="lo-specialities menu-accordion">
+                        <ul>
+                            <li>
+                                <a class="menu-item default-behaviour" href="/ru/live-online/frontend-developer">
+                                    <div>
+                                        <span class="smaller-menu-item-icon itvdnicon-frontend-new"></span>
+                                        <span class="menu-item-name">Frontend Developer</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="menu-item default-behaviour" href="/ru/live-online/net-developer">
+                                    <div>
+                                        <span class="menu-item-icon itvdnicon-net-developer"></span>
+                                        <span class="menu-item-name">.NET Developer</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="menu-item default-behaviour" href="/ru/live-online/java-developer">
+                                    <div>
+                                        <span class="menu-item-icon itvdnicon-Java"></span>
+                                        <span class="menu-item-name">Java Developer</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="menu-item default-behaviour" href="/ru/live-online/python-developer">
+                                    <div>
+                                        <span class="menu-item-icon itvdnicon-python-developer"></span>
+                                        <span class="menu-item-name">Python Developer</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="menu-item default-behaviour" href="/ru/live-online/nodejs-developer">
+                                    <div>
+                                        <span class="menu-item-icon itvdnicon-js-developer"></span>
+                                        <span class="menu-item-name">Full Stack Developer</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="menu-item default-behaviour" href="/ru/live-online/qa-manual">
+                                    <div>
+                                        <span class="menu-item-icon itvdnicon-qa-developer"></span>
+                                        <span class="menu-item-name">QA. Тестирование ПО</span>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
+
+                <li data-url-active="/ru/skills">
+                    <a href="/ru/skills" class="menu-item">
+                        <div>
+                            <span class="itvdnicon-timer menu-item-icon"></span>
+                            <span class="menu-item-name">Интерактивный практикум</span>
+                        </div>
+                    </a>
+                </li>
+
+                <li data-url-active="/ru/channel">
+                    <a href="/ru/webinars" class="menu-item">
+                        <div>
+                            <span class="itvdnicon-video-channel menu-item-icon"></span>
+                            <span class="menu-item-name">Бесплатные вебинары</span>
+                        </div>
+                    </a>
+                </li>
+
+                <li data-url-active="/ru/subscriptions">
+                    <a href="/ru/subscriptions" class="menu-item">
+                        <div>
+                            <span class="itvdnicon-calendar menu-item-icon"></span>
+                            <span class="menu-item-name">Цены на обучение</span>
+                        </div>
+                    </a>
+                </li>
+
+                <li data-url-active="/ru/corporateeducation">
+                    <a href="/ru/corporateeducation" class="menu-item">
+                        <div>
+                            <span class="itvdnicon-corp-edu menu-item-icon"></span>
+                            <span class="menu-item-name">Обучение сотрудников</span>
+                        </div>
+                    </a>
+                </li>
+
+                <li class="desktop" id="sharesNnewsBtn" data-url-active="/ru/shares">
+                    <a class="menu-item lazy-load">
+                        <div>
+                            <span class="itvdnicon-wallet menu-item-icon"></span>
+                            <span class="menu-item-name">Акции и Новости</span>
+                        </div>
+                        <span class="itvdnicon-play-arrow"></span>
+                    </a>
+                    <div class="dropdown-block specials" data-lazy-url="/ru/partials/sharesmenupartial" data-type="specials">
+                        <div class="css-loader"><div></div><div></div><div></div><div></div></div>
+
+                    </div>
+                </li>
+                <li class="mobile">
+                    <a href="/ru/shares" class="menu-item">
+                        <div>
+                            <span class="itvdnicon-wallet menu-item-icon"></span>
+                            <span class="menu-item-name">Акции</span>
+                        </div>
+                    </a>
+                </li>
+                
+
+                <li class="desktop" data-url-active="/ru/support">
+                    <a class="menu-item lazy-load">
+                        <div>
+                            <span class="itvdnicon-message menu-item-icon"></span>
+                            <span class="menu-item-name">Служба поддержки</span>
+                        </div>
+                        <span class="itvdnicon-play-arrow"></span>
+                    </a>
+                    <div class="dropdown-block support" data-lazy-url="/ru/partials/supportmenupartial" data-type="support">
+                        <div class="css-loader"><div></div><div></div><div></div><div></div></div>
+
+                    </div>
+                </li>
+
+                <li class="mobile">
+                    <a href="/ru/support" class="menu-item">
+                        <div>
+                            <span class="itvdnicon-message menu-item-icon"></span>
+                            <span class="menu-item-name">Поддержка</span>
+                        </div>
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+
+        <div class="bottom-bunner">
+            <div class="search-cabinet-block none-display cabinet-left">
+                <div class="search-wrapper">
+                    <span class="itvdnicon-find"></span>
+                    <input type="text" class="site-search" data-dropdown-type="down" name="name" id="search-on-side" autocomplete="off" />
+                </div>
+            </div>
+            <div class="subscription-block">
+                <p>
+    Выбери свою <span>IT</span> специальность
+</p>
+
+    <a href="/ru/fast-start" rel="nofollow" class="btn-filled-orange">
+        Начать бесплатно
+    </a>
+
+            </div>
+            <div class="social-panel-wrapper">
+                <p class="text">
+                    Мы в соцсетях
+                </p>
+                <div class="social-icons-container">
+
+
+                        <a href="https://www.facebook.com/ITVDN.EDU" rel="nofollow" target="_blank" class="social-subscribe-link" data-type="fb">
+                            <img src="/Content/img/home/icons/fb-white-icon.svg" alt="fb">
+                        </a>
+                        <a href="https://www.youtube.com/user/CBSystematicsTV" rel="nofollow" target="_blank" class="social-subscribe-link" data-type="youtube">
+                            <img src="/Content/img/home/icons/youtube-white-icon.svg" alt="youtube">
+                        </a>
+                        <a href="https://t.me/itvdn1" rel="nofollow" target="_blank" class="social-subscribe-link" data-type="telegram">
+                            <img src="/Content/img/home/icons/tg-white-icon.svg" alt="telegram">
+                        </a>
+                        <a href="https://www.linkedin.com/company/itvdn/" rel="nofollow" target="_blank" class="social-subscribe-link" data-type="linkedin">
+                            <img src="/Content/img/home/icons/linkedin-white-icon.svg" alt="linkedin">
+                        </a>
+                        <a href="https://www.tiktok.com/@itvdn" rel="nofollow" target="_blank" class="social-subscribe-link" data-type="tiktok">
+                            <img src="/Content/img/home/icons/tiktok-white-icon.svg" alt="tiktok">
+                        </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+
+<div class="top-header-block">
+    <div class="top-header">
+        <div class="subscription-block side-margin-left-indent shown">
+            <p>
+    Выбери свою <span>IT</span> специальность
+</p>
+
+    <a href="/ru/fast-start" rel="nofollow" class="btn-filled-orange">
+        Начать бесплатно
+    </a>
+
+        </div>
+
+        <div class="top-header-right-block">
+                <div class="localization-block">
+        <div class="localization-block__dropdown">
+            <div class="localization-block__select">
+                <div class="localization-block__selected"></div>
+                <span class="localization-block__icon itvdnicon-play-arrow"></span>
+            </div>
+            <ul class="localization-block__dropdown-menu"></ul>
+        </div>
+    </div>
+
+            <div class="search-cabinet-block">
+                <div class="search-wrapper">
+                    <span class="itvdnicon-find"></span>
+                    <input type="text" class="site-search" data-dropdown-type="top" name="header-search" id="search-on-top" autocomplete="off" />
+                </div>
+                
+<div class="top-menu">
+
+    <div class="top-menu__btns display-flex open-login-modal-btn">
+            <div class="top-menu__auth-btn-wrapper display-flex">
+                <span class="itvdnicon-login"></span>
+                <span class="top-menu__auth-btn">Авторизация</span>
+            </div>
+    </div>
+</div>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="subscription-block side-margin-left-indent hidden">
+        <p>
+    Выбери свою <span>IT</span> специальность
+</p>
+
+    <a href="/ru/fast-start" rel="nofollow" class="btn-filled-orange">
+        Начать бесплатно
+    </a>
+
+    </div>
+</div>
+    <div class="main-section main-section-flex">
+        <div>
+            
+            
+
+
+
+
+
+<div class="support-contact-wrapper">
+    <div class="contacts-address-container">
+    <div class="support-form-header">
+        <h1 class="header-2">ВАШ ЗАПРОС В СЛУЖБУ ПОДДЕРЖКИ</h1>
+    </div>
+    <form id="supprot-consultation-form" class="contact-form" data-validation-rule="contactRequestForm"
+      data-url="/api/forms/sendcontactrequest"
+      data-success-text="Запрос успешно отправлен" novalidate>
+    <div class="form-preloader">
+        <div class="loader-wrap">
+            <svg version="1.1" class="loader-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 width="40px" height="40px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+            <path fill="#000" d="M43.935,25.145c0-10.318-8.364-18.683-18.683-18.683c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615c8.072,0,14.615,6.543,14.615,14.615H43.935z">
+            <animateTransform attributeType="xml"
+                              attributeName="transform"
+                              type="rotate"
+                              from="0 25 25"
+                              to="360 25 25"
+                              dur="0.6s"
+                              repeatCount="indefinite" />
+                    </path>
+                    </svg>
+        </div>
+    </div>
+
+    <div class="input-container">
+        <input class="contact-form__input" type="text" id="support_name" name="Name" placeholder="Имя*" />
+    </div>
+
+    <div class="input-container">
+        <input class="contact-form__input" type="email" id="support_email" name="Email" placeholder="E-mail*" />
+    </div>
+
+    <div class="phone-input-conteiner input-container">
+        <input class="contact-form__input" type="tel" id="support-tel-input" name="Phone" placeholder="+380 123 456 789*" />
+    </div>
+
+    <div class="input-container">
+        <textarea class="contact-form__input" name="Message" id="support_message" placeholder="Сообщение*"></textarea>
+    </div>
+
+    <input class="contact-form__input" type="hidden" name="Source" value="Support" />
+
+    <div class="submit-cont">
+        <div class="result-popup-wrapper" style="display: none;"></div>
+        <button type="submit" class="btn-filled-orange">отправить</button>
+    </div>
+</form>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            $('#supprot-consultation-form').submit(formSubmitHandler);
+        });
+    </script>
+
+    
+
+            <div class="address-container">
+                <div class="address-header">
+                    <div class="header-1">Свяжитесь с нами</div>
+                </div>
+                <div class="address-content-wrapper">
+                    <div class="address-subheader">Наши контакты</div>
+                    <div class="address-row first">
+                        <div class="address-col">
+                            <span>02660, г.Киев</span>
+                            <span>ул. Евгения Сверстюка 19,</span>
+                            <span>5 этаж</span>
+                            
+                        </div>
+                        <div class="address-col">
+                            <ul>
+                                <li>
+                                    Центр обслуживания клиентов
+                                </li>
+                                    <li><a href="tel: +38 044 344 16 22" class="address-link" style="color: black">+38 044 344 16 22</a></li>
+                                    <li><a href="tel: +44 204 577 00 53" class="address-link" style="color: black">+44 204 577 00 53</a></li>
+                                <li>     ПН - ПТ 11:00 - 19:00 СБ выходной ВС выходной
+</li>
+                                <li class="address-support-number">
+                                    Техническая поддержка
+                                </li>
+                                <li><a href="tel: ITVDN.Web.ViewModels.Shared.ScheduleViewModel" style="color: black" class="address-link">+38 044 344 19 20</a></li>
+                                <li>     ПН - ПТ 11:00 - 00:00 СБ 11:00 - 19:00 ВС выходной
+</li>
+                                <li class="address-support-number">
+                                    Отдел продаж
+                                </li>
+                                <li><a href="tel: ITVDN.Web.ViewModels.Shared.ScheduleViewModel" style="color: black" class="address-link">+38 099 757 27 82</a></li>
+                                <li>     ПН - ПТ 11:00 - 19:00 СБ выходной ВС выходной
+</li>
+                            </ul>
+                                <span style="background: url(/Content/img/employment_assistance/Skype.svg) no-repeat; width: 13px; display: flex;">
+        <span style="margin-left: 20px;">Skype:</span>&ensp;
+        <a href="https://join.skype.com/invite/fu6kCDCnLmEK" target="_blank" class="address-link">support_itvdn</a>
+    </span>
+    <span style="background: url(/Content/img/employment_assistance/telegram.svg) center no-repeat; width: 13px; display: flex;">
+        <span style="margin-left: 20px;">Telegram:</span>&ensp;
+        <a href="https://t.me/itvdn_support" target="_blank" class="address-link">@itvdn_support</a>
+    </span>
+    <span style="background: url(/Content/img/employment_assistance/mail.svg) center no-repeat; width: 13px; display: flex;">
+        <span style="margin-left: 20px;">Email:</span>&ensp;
+        <a href="mailto:support@itvdn.com" class="address-link">support@itvdn.com</a>
+    </span>
+
+                        </div>
+                    </div>
+                    <div class="address-subheader second">время работы</div>
+                    <div class="address-row">
+                        <div class="working-hours">
+                            <div>
+                                <span>Понедельник - пятница:</span>
+                                <span>11:00 - 00:00</span>
+                            </div>
+                                <div>
+                                    <span>Суббота:</span>
+                                    <span>11:00 - 19:00</span>
+                                </div>
+                                <div>
+                                    <span>Воскресенье:</span>
+                                    <span>выходной</span>
+                                    
+                                </div>
+                        </div>
+                        <div>
+                            <span class="itvdnicon-message-2"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+</div>
+<div class="map-container">
+    <div class="map-header">
+        <h2 class="header-1">мы на карте</h2>
+    </div>
+    <div class="map-wrapper">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2540.6010089836263!2d30.600465215647343!3d50.44853207947508!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d4cff169be49ff%3A0x5e555486412c121a!2sITVDN!5e0!3m2!1suk!2sua!4v1487687883302" height="388" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </div>
+</div>
+
+</div>
+
+
+        </div>
+        <div>
+            <footer class="main-footer">
+    <div class="footer-info-container">
+        <div class="footer-info">
+            <div class="footer-info__block">
+                <div class="header-3">обучение</div>
+                <div>
+                    <ul>
+                        <li><a href="/ru/support/consultations">Консультация с тренером</a></li>
+                        <li><a href="/ru/catalog">Каталог курсов</a></li>
+                        <li><a href="/ru/specialities">IT специальности</a></li>
+                        <li><a href="/ru/subscriptions">Планы подписок</a></li>
+                        <li><a href="/ru/subscriptions/giftcertificate">Подарочные сертификаты</a></li>
+                        <li><a href="/ru/live-online">Live-Online обучение</a></li>
+                        <li><a href="/ru/channel">Видео канал</a></li>
+                        <li><a href="/ru/blog">Статьи</a></li>
+                        <li><a href="https://forum.itvdn.com/" rel="nofollow">Форум</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-info__block">
+                <div class="header-3">Популярное</div>
+                <div>
+                    <ul>
+                        <li><a href="/ru/start">С чего начать обучение</a></li>
+                        <li><a href="/ru/video/python-start">Видеоуроки Python</a></li>
+                        <li><a href="/ru/video/csharp-essential">Видеоуроки C#</a></li>
+                        <li><a href="/ru/video/aspnet-core-essential">Видеоуроки ASP.NET Core</a></li>
+                        <li><a href="/ru/video/java-starter">Видеоуроки Java</a></li>
+                        <li><a href="/ru/video/html5-css3-starter">Видеоуроки HTML&amp;CSS</a></li>
+                        <li><a href="/ru/video/javascript-starter">Видеоуроки JavaScript</a></li>
+                        <li><a href="/ru/video/angular-essential">Видеоуроки Angular</a></li>
+                        <li><a href="/ru/video/react-essential">Видеоуроки React</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-info__block">
+                <div class="header-3">сотрудничество</div>
+                <div>
+                    <ul>
+                        <li><a href="/ru/news/article/itvdn-looking-for-authors">Стань автором</a></li>
+                        <!-- <li><a href="http://itmozg.ru/" target="_blank" rel="nofollow">Работа в IT</a></li> -->
+                        <li><a href="/ru/corporateeducation">Для IT компаний</a></li>
+                        <li><a href="/ru/vacancies">Вакансии и стажировки</a></li>
+                        <li><a href="https://edu.cbsystematics.com/ru">CyberBionic Systematics</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-info__block">
+                <div class="header-3">о проекте</div>
+                <div>
+                    <ul>
+                        <li><a href="/ru/about">О проекте</a></li>
+                        <li><a href="/ru/support">Контакты</a></li>
+                        <li><a href="/ru/support/faq">FAQ</a></li>
+                        <li><a href="/ru/maildeliveries">Архив рассылок</a></li>
+                        <li><a href="/ru/authors">Авторы</a></li>
+                        <li><a href="/ru/shares/special-offers">Социальный проект</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <form class="newsletter-subscription-form" id="newsletter-subscription-form" data-validation-rule="newsletterSubscrForm" data-url="/api/forms/subscribe" data-success-text="Запрос успешно отправлен" novalidate>
+    <div class="form-preloader">
+        <div class="loader-wrap">
+            <svg version="1.1" class="loader-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 width="40px" height="40px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+            <path fill="#000" d="M43.935,25.145c0-10.318-8.364-18.683-18.683-18.683c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615c8.072,0,14.615,6.543,14.615,14.615H43.935z">
+            <animateTransform attributeType="xml"
+                              attributeName="transform"
+                              type="rotate"
+                              from="0 25 25"
+                              to="360 25 25"
+                              dur="0.6s"
+                              repeatCount="indefinite" />
+                    </path>
+                    </svg>
+        </div>
+    </div>
+    <div class="newsletter-subscription">
+        <div class="subscription-header">
+            <div class="header-letter-img">
+                <img src="/Content/img/newsletter-subscription/email.png" alt="Email Subscription" />
+            </div>
+            <div class="header-text">Подпишись на рассылку</div>
+        </div>
+        <div class="subscription-description">
+            <span class="subscription-description-text">
+                Будь в курсе новых акций ITVDN, видео уроков и вебинаров
+            </span>
+        </div>
+        <div class="subscription-email">
+            <div class="email-controls">
+                <input class="email-input" type="email" name="email" placeholder="Введите свой email" title="" />
+                <button class="subscription-submit" type="submit">&#64;</button>
+            </div>
+            <div style="display: none" class="email-success-message">
+                <span>
+                    Спасибо за подписку!
+                </span>
+            </div>
+        </div>
+    </div>
+</form>
+
+
+    </div>
+    <div class="footer-down-container">
+        <div class="footer-links">
+            <a href="http://cbsid.com/ru/conditions" target="_blank" rel="nofollow">Условия пользования</a>
+            <a href="http://cbsid.com/ru/Home/Privacy" target="_blank" rel="nofollow">Заявление о конфиденциальности</a>
+            <a href="/ru/about/termsofuse" target="_blank">Договор публичной оферты</a>
+            <a href="/ru/sitemap">Карта сайта</a>
+        </div>
+        <span><span>©</span>2024 ITVDN, все права защищены</span>
+    </div>
+</footer>
+
+        </div>
+    </div>
+
+    
+
+<div class="account-modal" id="register-modal">
+    <div class="account-modal__body">
+
+        
+        <div class="account-modal__form-block" id="register-forms">
+            <div class="account-modal__title-block">
+                <p class="account-modal__title">Регистрация через</p>
+                <span class="account-modal__close">&#10006</span>
+            </div>
+            <div>
+                <form id="external-register-form" action="/ru/account/externallogin" method="post">
+                    <input type="hidden" name="FreeCourse" value="" />
+                    <input type="hidden" name="FreeSpeciality" value="" />
+                    <input type="hidden" name="Provider" value="" />
+                    <input type="hidden" name="ReturnUrl" value="https://itvdn.com/ru/support" />
+                </form>
+
+                <div class="account-modal__social-block">
+                    <button class="account-modal__social-item external-login-btn" data-provider="Google">
+                        <img src="/Content/img/fast-start/google.png" alt="google" /> Google
+                    </button>
+
+                    <button class="account-modal__social-item external-login-btn" data-provider="Facebook">
+                        <img src="/Content/img/fast-start/facebook.png" alt="facebook" /> Facebook
+                    </button>
+                </div>
+            </div>
+
+            <div class="account-modal__sub-title">или E-mail</div>
+
+            <form class="account-modal__form" id="register-form" data-validation-rule="registerForm">
+
+                <input type="hidden" name="FreeCourse" value="" />
+                <input type="hidden" name="FreeSpeciality" value="" />
+
+                <div class="account-modal__form-item">
+                    <input class="account-modal__form-input" name="Email" type="email" placeholder="E-mail*" spellcheck="false" value="" />
+                </div>
+
+                <div class="account-modal__form-item register-form__phone">
+                    <input type="tel" class="intl-phone-input account-modal__form-input" spellcheck="false" value="" data-name="Phone" />
+                </div>
+
+                <div class="account-modal__form-item">
+                    <div class="show-and-hide-password" data-id="register-pswrd"></div>
+                    <input class="account-modal__form-input register-pswrd" name="Password" type="password" placeholder="Пароль*" value="" />
+                </div>
+
+                <div class="account-modal__form-item">
+                    <div class="show-and-hide-password" data-id="register-pswrd-confirm"></div>
+                    <input class="account-modal__form-input register-pswrd-confirm" name="PasswordConfirm" type="password"
+                           placeholder="Повторите пароль*" value="" />
+                </div>
+
+                <div class="account-modal__form-recaptcha g-recaptcha" data-sitekey="6LfaPu0SAAAAAF04y3HcQBEEAVQsq40inJYNK8al"></div>
+
+                <div class="account-modal__form-info registr-info">Нажав на кнопку "Зарегистрироваться", <br> Вы соглашаетесь с <a href="http://cbsid.com/ru/conditions" target="_blank">условиями использования</a>.</div>
+
+                <div class="account-modal__form-submit-block">
+                    <input class="account-modal__form-submit btn-filled-orange" type="submit" value="Зарегистрироваться">
+                </div>
+
+                <div class="account-modal__form-errors validation-errors">
+                    <ul></ul>
+                </div>
+            </form>
+
+            <div class="account-modal__form-account-block">
+                <div class="account-modal__form-account"><span class="login-btn">Уже есть аккаунт</span></div>
+            </div>
+        </div>
+
+        
+            <div id="register-preview" class="register-preview">
+                <div class="account-modal__title-block">
+                    <p class="account-modal__title">Получите курс бесплатно</p>
+                    <span class="account-modal__close">&#10006</span>
+                </div>
+
+                <div class="account-modal__message">
+                    Вы выбрали курс для изучения <br /> "<span class="account-modal__selected-course"></span>" <br> Чтобы получить доступ к курсу, зарегистрируйтесь на сайте.
+                </div>
+
+                <div class="account-modal__form-submit-block">
+                    <a id="moveToRegistration" class="btn-filled-orange">РЕГИСТРАЦИЯ</a>
+                </div>
+            </div>
+
+        
+        <div id="register-success" class="register-success">
+            <div class="account-modal__title-block">
+                <p class="account-modal__title">Спасибо за регистрацию</p>
+                <span class="account-modal__close">&#10006</span>
+            </div>
+
+            <div class="account-modal__message">
+                Перейдите на почту и подтвердите Ваш аккаунт,<br />чтобы получить доступ ко всем<br />бесплатным урокам и вебинарам на сайте <a href="/{0}/">ITVDN.com</a> <br> 
+            </div>
+            <div class="account-modal__form-submit-block">
+                <a class="account-modal__form-submit btn-filled-orange confirm-email-btn">ПОДТВЕРДИТЬ ПОЧТУ</a>
+                <a class="account-modal__form-submit btn-filled-orange finish-register-btn">НАЧАТЬ ОБУЧЕНИЕ</a>
+            </div>
+        </div>
+
+        
+        <div id="register-success-fast-start" class="register-success">
+            <div class="account-modal__title-block">
+                <p class="account-modal__title">Спасибо за регистрацию</p>
+                <span class="account-modal__close">&#10006</span>
+            </div>
+
+            <div class="account-modal__message">
+Ваш аккаунт успешно подтвержден. <br /> Начать обучение вы можете через <a href="/ru/cabinet">Личный кабинет</a> <br> пользователя или непосредственно на странице курса.            </div>
+            <div class="account-modal__form-submit-block">
+                <a class="account-modal__form-submit btn-filled-orange finish-register-btn">НАЧАТЬ ОБУЧЕНИЕ</a>
+            </div>
+        </div>
+
+
+        
+        <div id="confirm-phone" class="confirm-phone">
+            <p class="account-modal__title">Подтверждение аккаунта</p>
+            <div class="account-modal__message">
+                На Ваш номер телефона было отправлено смс с кодом активации аккаунта. Пожалуйста, введите код в поле ввода.
+            </div>
+
+            <form id="confirm-phone-form">
+                <div class="account-modal__form-item confirm-phone__input-block">
+                    <div class="confirm-phone__error-message"></div>
+                    <input class="account-modal__form-input confirm-phone__code-input" type="text" name="Code" placeholder="––––––" />
+                </div>
+
+                <div class="account-modal__form-submit-block">
+                    <input type="submit" disabled value="ПРОДОЛЖИТЬ" class="btn-filled-orange confirm-phone__submit-btn" />
+                </div>
+            </form>
+
+            <div style="text-align: center">
+                <p id="send-sms-again" class="account-modal__form-account">Отправить код еще раз</p>
+                <p id="change-phone" class="account-modal__form-account" style="margin-bottom: 0">Изменить номер телефона</p>
+            </div>
+        </div>
+
+        <div id="confirm-email" class="confirm-email">
+            <p class="account-modal__title">ПОДТВЕРДИТЬ ПОЧТУ</p>
+            <div class="account-modal__message">
+                На Ваш email было отправлено письмо с кодом активации аккаунта. Пожалуйста, введите код в поле ввода.
+            </div>
+
+            <form id="confirm-email-form">
+                <div class="account-modal__form-item confirm-email__input-block">
+                    <div class="confirm-email__error-message"></div>
+                    <input class="account-modal__form-input confirm-email__code-input" type="text" name="Code" placeholder="––––––" />
+                </div>
+
+                <div class="account-modal__form-submit-block">
+                    <input type="submit" disabled value="ПРОДОЛЖИТЬ" class="btn-filled-orange confirm-email__submit-btn" />
+                </div>
+            </form>
+
+            <div style="text-align: center">
+                <p id="send-mail-again" class="account-modal__form-account">Отправить код еще раз</p>
+                <p id="change-email" class="account-modal__form-account" style="margin-bottom: 0">Изменить email</p>
+            </div>
+        </div>
+
+
+        
+        <div id="error-tab" class="error-tab">
+            <div class="account-modal__title-block">
+                <p class="account-modal__title">Ошибка</p>
+                <span class="account-modal__close">&#10006</span>
+            </div>
+            <div class="register-modal__message error-tab__message message"></div>
+        </div>
+
+
+        
+        <div id="register-modal-loader" class="register-modal-loader">
+            <div style="text-align:center" class="common-loader">
+                <div class="loader loader--style3">
+                    <svg version="1.1" class="loader-1" xmlns="http://www.w3.org/2000/svg"
+                         xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40px" height="40px"
+                         viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+                    <path fill="#000"
+                          d="M43.935,25.145c0-10.318-8.364-18.683-18.683-18.683c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615c8.072,0,14.615,6.543,14.615,14.615H43.935z">
+                    <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 25 25"
+                                      to="360 25 25" dur="0.6s" repeatCount="indefinite" />
+
+
+
+                    </path>
+                </svg>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<div class="account-modal" id="login-modal">
+    <div class="account-modal__body">
+
+        
+        <div class="account-modal__form-block login-forms" id="login-forms">
+
+            <div class="account-modal__title-block">
+                <p class="account-modal__title">Вход через</p>
+                <span class="account-modal__close account-modal__close_login">&#10006</span>
+            </div>
+
+            <div>
+                <form id="external-login-form" action="/ru/account/externallogin" method="post">
+                    <input type="hidden" name="Provider" value="" />
+                    <input type="hidden" name="ReturnUrl" value="https://itvdn.com/ru/support" />
+                </form>
+
+                <div class="account-modal__social-block">
+
+                    <button class="account-modal__social-item external-login-btn" data-provider="Google">
+                        <img src="/Content/img/fast-start/google.png" alt="google" /> Google
+                    </button>
+
+                    <button class="account-modal__social-item external-login-btn" data-provider="Facebook">
+                        <img src="/Content/img/fast-start/facebook.png" alt="facebook" /> Facebook
+                    </button>
+                </div>
+            </div>
+
+            <div class="account-modal__sub-title">или E-mail</div>
+
+            <form id="login-form" method="post" action="/ru/account/logingfrommodal" data-validation-rule="loginForm">
+
+                <div class="account-modal__form-item login-form-element">
+                    <input class="account-modal__form-input" name="Email" type="email" placeholder="E-mail*" value="" spellcheck="false" autofocus />
+                </div>
+
+                <div class="account-modal__form-item login-form-element">
+                    <div class="show-and-hide-password" data-id="enter-pswrd"></div>
+                    <input class="account-modal__form-input enter-pswrd" name="Password" type="password" placeholder="Пароль" autocomplete="off" />
+                </div>
+
+                <div class="account-modal__form-recaptcha g-recaptcha" data-sitekey="6LfaPu0SAAAAAF04y3HcQBEEAVQsq40inJYNK8al"></div>
+
+                <div class="account-modal__form-remember login-form-element">
+                    <div class="account-modal__form-remember-block">
+                        <input type="checkbox" name="RememberMe" id="RememberMe" value="true" />
+                        <label for="RememberMe" class="remember-me">Запомнить меня</label>
+                    </div>
+                    <input class="btn-filled-orange" type="submit" value="Войти" />
+
+                </div>
+
+                <div class="account-modal__form-errors validation-errors" style="display:none;">
+                    <ul></ul>
+                </div>
+
+            </form>
+
+            <div class="account-modal__form-account-block">
+                <div class="account-modal__form-account">
+                    <span class="account-modal__form-account_link account-modal-forgot-password">Забыли пароль?</span>
+                </div>
+            </div>
+
+            <div class="account-modal__form-info login-forms__form-info register-btn">
+                Нет учетной записи? <a href="">Зарегистрируйтесь</a>
+            </div>
+        </div>
+
+
+        
+        <div class="forgot-password" id="forgot-password">
+            <div class="account-modal__title-block">
+                <p class="account-modal__title">Востановление пароля</з>
+                <span class="account-modal__close account-modal__close_login">&#10006</span>
+            </div>
+
+            <div class="account-modal__message">
+                Введите пожалуйста Ваш E-mail, чтобы мы могли отправить новый пароль на почтовый ящик.
+            </div>
+
+            <form id="forgot-password-form"
+                  data-url="/ru/account/forgotpassword"
+                  data-validation-rule="forgotPassForm"
+                  data-success-text="Письмо отправлено">
+
+                <div class="account-modal__form-item forgot-password__form-item">
+                    <input class="account-modal__form-input" name="Login" type="text" data-required="true" data-pattern="^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$" placeholder="Введите свой E-mail*" />
+                    <div id="notification" class="result-popup result-popup-wrapper forgot-password__response"></div>
+                </div>
+
+                <div class="account-modal__form-submit-block">
+                    <input class="btn-filled-orange" type="submit" value="ОТПРАВИТЬ ПАРОЛЬ">
+                </div>
+
+                <div class="account-modal__form-account-block">
+                    <div class="account-modal__form-account"><span class="login-btn">Вернуться к авторизации</span></div>
+                </div>
+            </form>
+        </div>
+
+
+        
+        <div id="error-tab-login" class="error-tab">
+            <div class="account-modal__title-block">
+                <p class="account-modal__title">Ошибка</p>
+                <span class="account-modal__close account-modal__close_login">&#10006</span>
+            </div>
+            <div class="register-modal__message error-tab__message message-login"></div>
+        </div>
+
+
+        
+        <div id="login-modal-loader" style="display:none;">
+            <div style="text-align:center" class="common-loader">
+                <div class="loader loader--style3">
+                    <svg version="1.1" class="loader-1" xmlns="http://www.w3.org/2000/svg"
+                         xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40px" height="40px"
+                         viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+                    <path fill="#000"
+                          d="M43.935,25.145c0-10.318-8.364-18.683-18.683-18.683c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615c8.072,0,14.615,6.543,14.615,14.615H43.935z">
+                    <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 25 25"
+                                      to="360 25 25" dur="0.6s" repeatCount="indefinite" />
+
+                    </path>
+                </svg>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <div id="global-notification" class="global-notification success">
+    <i class="fa fa-check-circle-o"></i>
+    <span>Notification success</span>
+</div>
+
+    <div class="cookies-message">
+    <div class="cookies-message__body ">
+        <div class="cookies-message__text">
+            Мы используем <a href="http://cbsid.com/ru/Home/Privacy" target="_blank">cookie-файлы</a>, чтобы сделать взаимодействие с нашими веб-сайтами и услугами простым и значимым.
+        </div>
+        <div class="cookies-message__btn-block">
+            <button class="cookies-message__accept btn-filled-orange">ПРИНЯТЬ</button>
+        </div>
+    </div>
+</div>
+
+
+    <script src="/Content/js/lib/jquery-3.5.1.min.js"></script>
+    <script src="/Content/js/lib/blazy-1-8-2.min.js"></script>
+    
+
+<script>
+    window.userIsAuthenticated = "False";
+    window.userName = '';
+    window.localizations = [{"displayName":"РУС","urlName":"ru"},{"displayName":"УКР","urlName":"ua"}];
+</script>
+<script src="/ru/home/jslocalizations?v=fbfc47b5c306b579cacac846cb00ddc8"></script>
+    <script>
+        window.bLazy = new Blazy({
+            offset: 200,
+            breakpoints: [
+                {
+                    width: 500,
+                    src: 'data-src-mobile'
+                },
+                {
+                    width: 1049,
+                    src: 'data-src-tablet'
+                }
+            ]
+        });
+
+        /*function hideLoader() {
+            var loader = document.getElementById("main-loader");
+            loader.parentNode ? loader.parentNode.removeChild(loader) : null;
+        }
+
+        if (window.location.pathname !== "/ru/catalog") {
+            hideLoader();
+        }*/
+    </script>
+
+    <script src="/bundles/js/core-20190407?v=1KpqTJg-cHJhIYFvy-EOlYfX5XCwpXiOix5HmwyF2ig1"></script>
+
+    
+<script>
+    const regexes = {
+        name: String.raw`^[a-za-яєіїёA-ZА-ЯЄІЇЁ \-]{1,25}$`,
+        surname: String.raw`^[a-za-яєіїёA-ZА-ЯЄІЇЁ]{1,25}$`,
+        email: String.raw`^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$`,
+        phone: String.raw`^\+(9[976]\d|8[987530]\d|6[987]\d|5[90]\d|42\d|3[875]\d|2[98654321]\d|9[8543210]|8[6421]|6[6543210]|5[87654321]|4[987654310]|3[9643210]|2[70]|7|1)\d{0,14}$`,
+        login: String.raw`^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$`,
+        fullName: '^[A-Za-zА-ЯЄІЇЁа-яєіїё -]{2,256}$',
+        message: '^(.|\n*\r*){0,1000}$',
+        url: String.raw`^(?:http(s)?:\/\/)?[\w.-]+(?:\.[\w\.-]+)+[\w\-\._~:/?#[\]@!\$&'\(\)\*\+,;=.]+$`,
+    };
+
+    const errorRegexMessages = {
+        nameError: 'Пожалуйста, для указания имени используйте кирилицу или латиницу без пробелов. Максимум 25 символов',
+        surnameError: 'Пожалуйста, для указания фамилии используйте кирилицу или латиницу без пробелов. Максимум 25 символов',
+        emailError: 'Пожалуйста, укажите корректный адрес E-mail',
+        phoneError: 'Пожалуйста, укажите корректный номер телефона',
+        loginError: 'Неправильный формат логина',
+        fullNameError: 'Пожалуйста, для указания имени и фамилии используйте кирилицу или латиницу.',
+        consultationDurationRangeError: 'Значение должно быть в диапазоне от {1} до {2}',
+        messageError: 'Cообщение содержит недопустимые символы',
+        commentError: 'Комментарий содержит недопустимые символы',
+        urlError: 'Неправильный формат ссылки',
+    };
+
+    const errorRequiredMessages = {
+        nameError: 'Пожалуйста, укажите Ваше имя',
+        surnameError: 'Пожалуйста, укажите Вашу фамилию',
+        emailError: 'Пожалуйста, укажите Ваш адрес E-mail',
+        phoneError: 'Пожалуйста, укажите Ваш телефон',
+        skypeError: 'Пожалуйста, укажите Ваш Skype',
+        loginError: 'Пожалуйста, укажите Ваш логин',
+        passwordError: 'Пожалуйста, укажите Ваш пароль',
+        fullNameError: 'Пожалуйста, укажите Ваше имя и фамилию',
+        companyPositionError: 'Пожалуйста, укажите Вашу должность в компании',
+        companyNameError: 'Пожалуйста, укажите название компании',
+        requiredError: 'Поле должно быть заполнено',
+        currentPasswordRequiredError: 'Введите текущий пароль',
+        passwordLengthError: 'Пароль должен содержать не меньше 6-ти символов',
+        newPasswordRequiredError: 'Пожалуйста, укажите Ваш новый пароль',
+        newPasswordConfirmError: 'Пожалуйста, подтвердите Ваш новый пароль',
+        messageError: 'Укажите Ваше сообщение',
+        passwordConfirmRequiredError: 'Пожалуйста, подтвердите Ваш пароль',
+        urlError: 'Пожалуйста, укажите ссылку',
+    };
+</script>
+    
+    
+
+<script type="text/javascript">
+    (function (d, w, s) {
+        var widgetHash = 'UwcDJE0Fn5OIaBtt9DYV', bch = d.createElement(s); bch.type = 'text/javascript'; bch.async = true;
+        bch.src = '//widgets.binotel.com/chat/widgets/' + widgetHash + '.js';
+        var sn = d.getElementsByTagName(s)[0]; sn.parentNode.insertBefore(bch, sn);
+    })(document, window, 'script');
+</script>
+
+
+    
+    <script type="text/javascript">
+        var google_tag_params = {
+            dynx_itemid: '',
+            dynx_pagetype: 'other',
+            dynx_totalvalue: 0,
+        };
+</script>
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 949235841;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script async type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/949235841/?guid=ON&amp;script=0" />
+    </div>
+</noscript>
+
+    
+
+<div style="width: 400px;" class="common-share" id="share">
+    <span class="common-share__close-share" id="hide-image" style="color:#D81B0F;">✖</span>
+    <a href="https://itvdn.com/ru/subscriptions" target="_blank">
+        <img src="https://itvdn.blob.core.windows.net/large-images/large-images-bae2a0c9-ad6c-42c1-af8a-2f217821321a.png" alt="" />
+    </a>
+</div>
+
+<script>
+    let img = document.getElementById("share"),
+        hideImage = document.getElementById("hide-image"),
+        timer = window.matchMedia('(min-width: 600px)').matches ? 5000 : 120000;
+
+    if (!document.cookie.includes("popup638394804000000000=true")) {
+        setTimeout(function () {
+            img.style.display = 'block';
+            document.cookie = "popup638394804000000000=false;path=/";
+        }, timer);
+
+        hideImage.onclick = function () {
+            img.style.display = "none";
+            document.cookie = "popup638394804000000000=true;path=/";
+        }
+    }
+</script>
+</body>
+</html>
+

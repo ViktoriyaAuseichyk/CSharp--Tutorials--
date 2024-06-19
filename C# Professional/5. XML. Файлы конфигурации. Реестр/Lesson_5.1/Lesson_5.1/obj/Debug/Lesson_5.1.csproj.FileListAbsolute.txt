@@ -1,0 +1,7 @@
+D:\Vika\C# Professional\ДЗ\5. XML. Файлы конфигурации. Реестр\Lesson_5.1\Lesson_5.1\bin\Debug\Lesson_5.1.exe.config
+D:\Vika\C# Professional\ДЗ\5. XML. Файлы конфигурации. Реестр\Lesson_5.1\Lesson_5.1\bin\Debug\Lesson_5.1.exe
+D:\Vika\C# Professional\ДЗ\5. XML. Файлы конфигурации. Реестр\Lesson_5.1\Lesson_5.1\bin\Debug\Lesson_5.1.pdb
+D:\Vika\C# Professional\ДЗ\5. XML. Файлы конфигурации. Реестр\Lesson_5.1\Lesson_5.1\obj\Debug\Lesson_5.1.csproj.AssemblyReference.cache
+D:\Vika\C# Professional\ДЗ\5. XML. Файлы конфигурации. Реестр\Lesson_5.1\Lesson_5.1\obj\Debug\Lesson_5.1.csproj.CoreCompileInputs.cache
+D:\Vika\C# Professional\ДЗ\5. XML. Файлы конфигурации. Реестр\Lesson_5.1\Lesson_5.1\obj\Debug\Lesson_5.1.exe
+D:\Vika\C# Professional\ДЗ\5. XML. Файлы конфигурации. Реестр\Lesson_5.1\Lesson_5.1\obj\Debug\Lesson_5.1.pdb

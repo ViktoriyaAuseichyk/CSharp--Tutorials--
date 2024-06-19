@@ -1,0 +1,15 @@
+D:\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.exe.config
+D:\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.exe
+D:\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.pdb
+D:\MultidimensionalArrays\obj\Debug\000_MultidimensionalArrays.csprojAssemblyReference.cache
+D:\MultidimensionalArrays\obj\Debug\000_MultidimensionalArrays.csproj.CoreCompileInputs.cache
+D:\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.exe
+D:\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.pdb
+D:\Rissa\С# 8.0 Стартовый\ДЗ\33.1_MultidimensionalArrays\bin\Debug\MultidimensionalArrays.exe.config
+D:\Rissa\С# 8.0 Стартовый\ДЗ\33.1_MultidimensionalArrays\bin\Debug\MultidimensionalArrays.exe
+D:\Rissa\С# 8.0 Стартовый\ДЗ\33.1_MultidimensionalArrays\bin\Debug\MultidimensionalArrays.pdb
+D:\Rissa\С# 8.0 Стартовый\ДЗ\33.1_MultidimensionalArrays\obj\Debug\000_MultidimensionalArrays.csproj.AssemblyReference.cache
+D:\Rissa\С# 8.0 Стартовый\ДЗ\33.1_MultidimensionalArrays\obj\Debug\000_MultidimensionalArrays.csproj.SuggestedBindingRedirects.cache
+D:\Rissa\С# 8.0 Стартовый\ДЗ\33.1_MultidimensionalArrays\obj\Debug\000_MultidimensionalArrays.csproj.CoreCompileInputs.cache
+D:\Rissa\С# 8.0 Стартовый\ДЗ\33.1_MultidimensionalArrays\obj\Debug\MultidimensionalArrays.exe
+D:\Rissa\С# 8.0 Стартовый\ДЗ\33.1_MultidimensionalArrays\obj\Debug\MultidimensionalArrays.pdb

@@ -1,0 +1,8 @@
+D:\Vika\C# Базовый (ООП)\ДЗ\4.2_Interfaces\Lesson_4.2 NEW\Lesson_4.2 NEW\bin\Debug\Lesson_4.2 NEW.exe.config
+D:\Vika\C# Базовый (ООП)\ДЗ\4.2_Interfaces\Lesson_4.2 NEW\Lesson_4.2 NEW\bin\Debug\Lesson_4.2 NEW.exe
+D:\Vika\C# Базовый (ООП)\ДЗ\4.2_Interfaces\Lesson_4.2 NEW\Lesson_4.2 NEW\bin\Debug\Lesson_4.2 NEW.pdb
+D:\Vika\C# Базовый (ООП)\ДЗ\4.2_Interfaces\Lesson_4.2 NEW\Lesson_4.2 NEW\obj\Debug\Lesson_4.2 NEW.csproj.AssemblyReference.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\4.2_Interfaces\Lesson_4.2 NEW\Lesson_4.2 NEW\obj\Debug\Lesson_4.2 NEW.csproj.SuggestedBindingRedirects.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\4.2_Interfaces\Lesson_4.2 NEW\Lesson_4.2 NEW\obj\Debug\Lesson_4.2 NEW.csproj.CoreCompileInputs.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\4.2_Interfaces\Lesson_4.2 NEW\Lesson_4.2 NEW\obj\Debug\Lesson_4.2 NEW.exe
+D:\Vika\C# Базовый (ООП)\ДЗ\4.2_Interfaces\Lesson_4.2 NEW\Lesson_4.2 NEW\obj\Debug\Lesson_4.2 NEW.pdb

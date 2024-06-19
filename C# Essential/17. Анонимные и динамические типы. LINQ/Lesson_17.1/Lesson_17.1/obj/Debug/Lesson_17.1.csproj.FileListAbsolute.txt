@@ -1,0 +1,7 @@
+D:\Vika\C# Базовый (ООП)\ДЗ\17. Анонимные и динамические типы. LINQ\Lesson_17.1\Lesson_17.1\obj\Debug\Lesson_17.1.csproj.AssemblyReference.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\17. Анонимные и динамические типы. LINQ\Lesson_17.1\Lesson_17.1\obj\Debug\Lesson_17.1.csproj.CoreCompileInputs.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\17. Анонимные и динамические типы. LINQ\Lesson_17.1\Lesson_17.1\bin\Debug\Lesson_17.1.exe.config
+D:\Vika\C# Базовый (ООП)\ДЗ\17. Анонимные и динамические типы. LINQ\Lesson_17.1\Lesson_17.1\bin\Debug\Lesson_17.1.exe
+D:\Vika\C# Базовый (ООП)\ДЗ\17. Анонимные и динамические типы. LINQ\Lesson_17.1\Lesson_17.1\bin\Debug\Lesson_17.1.pdb
+D:\Vika\C# Базовый (ООП)\ДЗ\17. Анонимные и динамические типы. LINQ\Lesson_17.1\Lesson_17.1\obj\Debug\Lesson_17.1.exe
+D:\Vika\C# Базовый (ООП)\ДЗ\17. Анонимные и динамические типы. LINQ\Lesson_17.1\Lesson_17.1\obj\Debug\Lesson_17.1.pdb

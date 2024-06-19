@@ -1,0 +1,7 @@
+D:\Vika\C# Базовый (ООП)\ДЗ\13. Потоки (threads) в C#\Lesson_13.1\Lesson_13.1\obj\Debug\Lesson_13.1.csproj.AssemblyReference.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\13. Потоки (threads) в C#\Lesson_13.1\Lesson_13.1\obj\Debug\Lesson_13.1.csproj.CoreCompileInputs.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\13. Потоки (threads) в C#\Lesson_13.1\Lesson_13.1\bin\Debug\Lesson_13.1.exe.config
+D:\Vika\C# Базовый (ООП)\ДЗ\13. Потоки (threads) в C#\Lesson_13.1\Lesson_13.1\bin\Debug\Lesson_13.1.exe
+D:\Vika\C# Базовый (ООП)\ДЗ\13. Потоки (threads) в C#\Lesson_13.1\Lesson_13.1\bin\Debug\Lesson_13.1.pdb
+D:\Vika\C# Базовый (ООП)\ДЗ\13. Потоки (threads) в C#\Lesson_13.1\Lesson_13.1\obj\Debug\Lesson_13.1.exe
+D:\Vika\C# Базовый (ООП)\ДЗ\13. Потоки (threads) в C#\Lesson_13.1\Lesson_13.1\obj\Debug\Lesson_13.1.pdb

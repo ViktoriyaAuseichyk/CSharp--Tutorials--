@@ -1,0 +1,8 @@
+D:\Vika\C# Базовый (ООП)\ДЗ\10. Универсальные шаблоны (generics) в C#\Lesson_10.3\Lesson_10.3\bin\Debug\Lesson_10.3.exe.config
+D:\Vika\C# Базовый (ООП)\ДЗ\10. Универсальные шаблоны (generics) в C#\Lesson_10.3\Lesson_10.3\bin\Debug\Lesson_10.3.exe
+D:\Vika\C# Базовый (ООП)\ДЗ\10. Универсальные шаблоны (generics) в C#\Lesson_10.3\Lesson_10.3\bin\Debug\Lesson_10.3.pdb
+D:\Vika\C# Базовый (ООП)\ДЗ\10. Универсальные шаблоны (generics) в C#\Lesson_10.3\Lesson_10.3\obj\Debug\Lesson_10.3.csproj.AssemblyReference.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\10. Универсальные шаблоны (generics) в C#\Lesson_10.3\Lesson_10.3\obj\Debug\Lesson_10.3.csproj.SuggestedBindingRedirects.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\10. Универсальные шаблоны (generics) в C#\Lesson_10.3\Lesson_10.3\obj\Debug\Lesson_10.3.csproj.CoreCompileInputs.cache
+D:\Vika\C# Базовый (ООП)\ДЗ\10. Универсальные шаблоны (generics) в C#\Lesson_10.3\Lesson_10.3\obj\Debug\Lesson_10.3.exe
+D:\Vika\C# Базовый (ООП)\ДЗ\10. Универсальные шаблоны (generics) в C#\Lesson_10.3\Lesson_10.3\obj\Debug\Lesson_10.3.pdb

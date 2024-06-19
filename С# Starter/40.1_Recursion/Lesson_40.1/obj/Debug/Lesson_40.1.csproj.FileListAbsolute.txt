@@ -1,0 +1,8 @@
+D:\Rissa\С# 8.0 Стартовый\ДЗ\40.1_Recursion\Lesson_40.1\bin\Debug\Lesson_40.1.exe.config
+D:\Rissa\С# 8.0 Стартовый\ДЗ\40.1_Recursion\Lesson_40.1\bin\Debug\Lesson_40.1.exe
+D:\Rissa\С# 8.0 Стартовый\ДЗ\40.1_Recursion\Lesson_40.1\bin\Debug\Lesson_40.1.pdb
+D:\Rissa\С# 8.0 Стартовый\ДЗ\40.1_Recursion\Lesson_40.1\obj\Debug\Lesson_40.1.csproj.AssemblyReference.cache
+D:\Rissa\С# 8.0 Стартовый\ДЗ\40.1_Recursion\Lesson_40.1\obj\Debug\Lesson_40.1.csproj.SuggestedBindingRedirects.cache
+D:\Rissa\С# 8.0 Стартовый\ДЗ\40.1_Recursion\Lesson_40.1\obj\Debug\Lesson_40.1.csproj.CoreCompileInputs.cache
+D:\Rissa\С# 8.0 Стартовый\ДЗ\40.1_Recursion\Lesson_40.1\obj\Debug\Lesson_40.1.exe
+D:\Rissa\С# 8.0 Стартовый\ДЗ\40.1_Recursion\Lesson_40.1\obj\Debug\Lesson_40.1.pdb
